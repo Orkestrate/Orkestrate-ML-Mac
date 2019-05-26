@@ -2,4 +2,4 @@
 
 Okestrate ML app for MacOS
 
-For more information on installation and usage, please visit http://orkestrate.ml/download.php
+For more information on installation and usage, please visit http://orkestrate.me/download.php
